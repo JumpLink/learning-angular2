@@ -1,0 +1,14 @@
+{
+  "name": "learning-angular2",
+  "version": "0.0.0",
+  "description": "Just experimental stuff to learn angular2 for me",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pascal Garber",
+  "license": "MIT",
+  "devDependencies": {
+    "webpack": "^1.12.12"
+  }
+}
